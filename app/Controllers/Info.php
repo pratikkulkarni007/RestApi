@@ -110,4 +110,9 @@ class Info extends ResourceController
         return $this->respond($respond);
     }
 
+    public function test($id=null)
+    {
+
+    }
+
 }
