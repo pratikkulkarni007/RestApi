@@ -112,7 +112,7 @@ class Info extends ResourceController
 
     public function test($id=null)
     {
-
+        $test = "tetsing variable"; 
     }
 
 }
